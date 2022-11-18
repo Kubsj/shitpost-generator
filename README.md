@@ -1,0 +1,2 @@
+# shitpost generator
+ Generator shitpostów 
